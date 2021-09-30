@@ -1,0 +1,9 @@
+instanaous flow file name here(flowinst)
+"~/work/CBogey2020/Jetv01D0420Re3125BL/signinstT0light.bin"
+average flow file name here(flowinst)
+"~/work/CBogey2020/Jetv01D0420Re3125BL/signinstT0lightmoy.bin"
+gridname here
+"./grid/grid.000001"
+outputfile name here(outfile)
+"./result/OP-x/OP-7/Re3125/t0/data/vorticity_"
+

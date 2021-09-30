@@ -1,0 +1,10 @@
+set term gif animate optimize size 480,360
+set output 'movie.gif'
+
+
+do for [j = 100:200 ] {
+   splot sprintf("./fort.%d", j) u 1:2:3 w l t sprintf("./fort.%d", j)
+}
+
+#set out
+#set terminal wxt enhanced
